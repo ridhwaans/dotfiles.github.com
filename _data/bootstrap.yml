@@ -1,8 +1,8 @@
-- forks: 1761
+- forks: 1760
   name: thoughtbot/dotfiles
   notes: A base set of configs, plugins, scripts, and aliases for vim, tmux, git,
     ruby, and zsh.
-  stars: 8172
+  stars: 8171
   url: https://github.com/thoughtbot/dotfiles
 - forks: 370
   name: dotphiles
